@@ -15,6 +15,6 @@
 
 📧 Email: [shawon4166@gmail.com](mailto:shawon4166@gmail.com)
 
-💼 LinkedIn: [Zannatul Ferdous Shawon](https://www.linkedin.com/in/zannatul-ferdous-297259215/)
-
 🌐 Portfolio: [View My Portfolio](https://zannatul-ferdous-shawon.vercel.app/)
+
+💼 LinkedIn: [Zannatul Ferdous Shawon](https://www.linkedin.com/in/zannatul-ferdous-297259215/)
