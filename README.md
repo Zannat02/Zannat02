@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./bannar.png" alt="Zannatul Ferdous Shawon GitHub Banner" width="100%">
+</p>
+
+
 ## Hi there 👋
 
 <!--
