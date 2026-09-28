@@ -3,19 +3,18 @@
 </p>
 
 
-## Hi there 👋
+## 👋 I'm Zannatul Ferdous Shawon
 
-<!--
-**Zannat02/Zannat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Junior Web Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 Contact Information
+
+📍 Location: Pabna, Bangladesh
+
+📧 Email: [shawon4166@gmail.com](mailto:shawon4166@gmail.com)
+
+💼 LinkedIn: [Zannatul Ferdous Shawon](https://www.linkedin.com/in/zannatul-ferdous-297259215/)
+
+🌐 Portfolio: [View My Portfolio](https://zannatul-ferdous-shawon.vercel.app/)
