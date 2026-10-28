@@ -16,7 +16,7 @@
 
 🌐 Portfolio: [View My Portfolio](https://zannatul-ferdous-shawon.vercel.app/)
 
-💼 LinkedIn: [Zannatul Ferdous Shawon](https://www.linkedin.com/in/zannatul-ferdous-297259215/)
+💼 LinkedIn: [Zannatul Ferdous Shawon](https://www.linkedin.com/in/zannatul-shawon/)
 
 ---
 
